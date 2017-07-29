@@ -1,11 +1,4 @@
-# Blij
+# JSON
 
-JSON Parser which reads the input string, validates and outputs whether it is a JSON string or not
 
-Version - 1
-
-Basic parts validations - Single key and value(null/number/string/boolean/object/array)
-
-Version - 2
-
-with multiple values..
+JSON Parser that takes input as a string and gives whether it is valid JSON string or not.
